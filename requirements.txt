@@ -1,0 +1,13 @@
+# versions the code was tested with (Python 3.14)
+numpy==2.5.4
+pandas==3.1.1
+scipy==1.18.1
+matplotlib==3.11.2
+tabulate==0.10.0
+pytest
+# notebook
+jupyter
+nbclient
+# building the PDF (tools/build_pdf.py, also needs Google Chrome or Chromium)
+markdown
+pymdown-extensions

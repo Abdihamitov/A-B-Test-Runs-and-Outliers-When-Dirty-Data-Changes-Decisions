@@ -1,0 +1,21 @@
+{
+  "source": "hillstrom",
+  "rows": 64000,
+  "columns": [
+    "recency",
+    "history_segment",
+    "history",
+    "mens",
+    "womens",
+    "zip_code",
+    "newbie",
+    "channel",
+    "segment",
+    "visit",
+    "conversion",
+    "spend",
+    "group"
+  ],
+  "control_label": "No E-Mail",
+  "sha256": "0e5893329d8b93cefecc571777672028290ab69865718020c78c7284f291aece"
+}
